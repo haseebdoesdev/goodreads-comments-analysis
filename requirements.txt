@@ -1,0 +1,7 @@
+requests
+pandas
+vaderSentiment
+networkx
+numpy
+matplotlib
+seaborn

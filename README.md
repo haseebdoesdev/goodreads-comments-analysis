@@ -12,18 +12,10 @@ This project contains a Jupyter Notebook (`goodreads_review_analysis.ipynb`) des
 - **Network Analysis**: Builds a reviewer network to identify influential users via PageRank and centrality metrics.
 
 ## Prerequisites
-To run the notebook, ensure you have the following Python libraries installed:
-- `requests`
-- `pandas`
-- `vaderSentiment`
-- `networkx`
-- `numpy`
-- `matplotlib`
-- `seaborn`
+Install the required Python libraries listed in `requirements.txt`:
 
-You can install these dependencies using pip:
 ```bash
-pip install requests pandas vaderSentiment networkx numpy matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ## Usage
